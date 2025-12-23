@@ -2,9 +2,13 @@
 I made this project to learn the basics of random forest algorithm
 
 import pandas as pd
+
 import sklearn
+
 from sklearn.tree import plot_tree
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
 
 file_path = "/content/bankloan.csv"
